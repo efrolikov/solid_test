@@ -1,0 +1,30 @@
+body {
+    margin: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+.tree_item .item_btn {
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.delete-counter {
+    font-size: 3em;
+    margin-right: 30px;
+}
+
+ul.subtree {
+    list-style-type: none;
+}
+
+.tree_item .arrow img {
+    width: 13px;
+    cursor: pointer;
+}
+
+.tree_item .item_name {
+    cursor: pointer;
+} 
